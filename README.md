@@ -1,5 +1,5 @@
 # Sharon Sebola
-Hello Everyone....Welcome to my profile...
+Hello Everyone....Welcome to my profile
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sharonmatome&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharonmatome&theme=radical" alt="GitHub Streak"/>
